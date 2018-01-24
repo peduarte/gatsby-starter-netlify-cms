@@ -1,8 +1,10 @@
 backend:
   name: git-gateway
   branch: master
+  accept_roles: editor
   
 publish_mode: editorial_workflow
+
   
 
 media_folder: static/img
